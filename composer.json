@@ -1,0 +1,13 @@
+{
+    "name": "zac/persistence",
+    "type": "tutorial",
+    "description": "Learning Doctrine",
+
+    "require": {
+        "doctrine/orm": "2.6.*"
+    },
+
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
